@@ -44,12 +44,13 @@ Notebook tự học Python này được thiết kế cho "Python Challenge Week
 
 ### Làm việc trên Google Colab
 
-1. Mở file `python_challenge_week.ipynb` trên GitHub trong repo mới của bạn.
-2. Sử dụng nút **Open in Colab** (nếu đã cài tiện ích) hoặc đổi URL theo mẫu `https://colab.research.google.com/github/<org>/<repo>/blob/<branch>/python_challenge_week.ipynb` để mở trực tiếp trên Colab.
+1. Mở [Colab](https://colab.google/)
+2. Mở Project từ Github (nhớ grant access cả organization bấm nút grant bên cạnh tên org Challengeweek-AI-BK-AUTO)
 3. Trong Colab, đảm bảo bạn đã đăng nhập cùng tài khoản Google có quyền truy cập GitHub.
 4. Khi bắt đầu chỉnh sửa, chọn **File ▸ Save a copy in GitHub…** (Lưu bản sao vào GitHub) hoặc bấm Ctrl + S, chọn repo fork của bạn, nhánh mong muốn và điền thông điệp commit.
 5. Lặp lại thao tác “Save a copy in GitHub” sau mỗi lần cập nhật để lưu lịch sử làm việc. Colab sẽ tự động tạo commit mới với nội dung bạn đã chỉnh sửa.
-
+   
+#### Link video thao tác tham khảo: [tại đây](https://drive.google.com/file/d/166KKMp0XklH4UVNI8dYJsNpmnHCaR3E7/view?usp=sharing)
 ### Thói quen commit đề xuất
 
 - Tạo commit nhỏ sau từng module hoặc thử thách để dễ dàng theo dõi tiến độ.
